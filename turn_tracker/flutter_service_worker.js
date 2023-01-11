@@ -15,16 +15,16 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"index.html": "af64abd13446c9da14592711a4ac5ea6",
-"/": "af64abd13446c9da14592711a4ac5ea6",
+"index.html": "fdbc67a085dd986088cb5fa40c4f22fa",
+"/": "fdbc67a085dd986088cb5fa40c4f22fa",
 "manifest.json": "b45b44ca2330ad63ef98bf66b8ff4f5f",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"main.dart.js": "ee94d57869de97bb106e569812adb577",
+"main.dart.js": "387df504d682930a16abdc074bf0ac23",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"version.json": "dc541bc73253b2998e367971765e240e"
+"version.json": "b7be3f9db5e728ecdbc5e8d02d24ea01"
 };
 
 // The application shell files that are downloaded before a service worker can
